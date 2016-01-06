@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch
+END
+BoardBusOp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/BoardBusOp.cpp
+END
+DataSwitchApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/DataSwitchApp.h
+END
+JruService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/JruService.cpp
+END
+SwitchService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/SwitchService.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/main.cpp
+END
+BoardBusOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/BoardBusOp.h
+END
+JruService.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/JruService.h
+END
+SwitchService.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/SwitchService.h
+END
+DataHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/DataHub.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/CMakeLists.txt
+END
+DataSwitchApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/DataSwitchApp.cpp
+END
+DataHub.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/dataswitch/DataHub.h
+END

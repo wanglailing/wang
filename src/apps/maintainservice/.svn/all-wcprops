@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice
+END
+ConnService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/ConnService.cpp
+END
+MaintainApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/MaintainApp.cpp
+END
+MaintainService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/MaintainService.cpp
+END
+ConnService.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/ConnService.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/main.cpp
+END
+AcceptServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/AcceptServer.cpp
+END
+MaintainApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/MaintainApp.h
+END
+MaintainService.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/MaintainService.h
+END
+AcceptServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/AcceptServer.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/maintainservice/CMakeLists.txt
+END

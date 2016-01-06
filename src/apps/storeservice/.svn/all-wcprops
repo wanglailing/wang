@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice
+END
+DataRecorder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/DataRecorder.cpp
+END
+ContentSink.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/ContentSink.cpp
+END
+SharedBuffer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/SharedBuffer.cpp
+END
+ContentService.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/ContentService.h
+END
+StoreDevMgr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 167
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/StoreDevMgr.cpp
+END
+RawdataSub.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/RawdataSub.h
+END
+LogService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/LogService.cpp
+END
+StoreApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/StoreApp.h
+END
+DataRecorder.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/DataRecorder.h
+END
+ContentSink.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/ContentSink.h
+END
+SharedBuffer.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/SharedBuffer.h
+END
+StoreDevMgr.h
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/StoreDevMgr.h
+END
+LogService.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/LogService.h
+END
+PowerdropDetect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/PowerdropDetect.cpp
+END
+PowerdropDetect.h
+K 25
+svn:wc:ra_dav:version-url
+V 169
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/PowerdropDetect.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/main.cpp
+END
+ContentService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/ContentService.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/CMakeLists.txt
+END
+StoreApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/StoreApp.cpp
+END
+RawdataSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/storeservice/RawdataSub.cpp
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice
+END
+CoredataSub.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/CoredataSub.h
+END
+Transmit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/Transmit.cpp
+END
+RawdataSub.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/RawdataSub.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/main.cpp
+END
+EoaservApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/EoaservApp.cpp
+END
+TransConfirm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/TransConfirm.cpp
+END
+Transmit.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/Transmit.h
+END
+EoaservApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/EoaservApp.h
+END
+TransConfirm.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/TransConfirm.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/CMakeLists.txt
+END
+CoredataSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/CoredataSub.cpp
+END
+RawdataSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/eoaservice/RawdataSub.cpp
+END

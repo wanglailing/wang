@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice
+END
+CoredataSub.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/CoredataSub.h
+END
+RawdataSub.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/RawdataSub.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/main.cpp
+END
+GprsParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/GprsParser.cpp
+END
+TcaservApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/TcaservApp.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/CMakeLists.txt
+END
+CoredataSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/CoredataSub.cpp
+END
+GprsParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/GprsParser.h
+END
+RawdataSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/RawdataSub.cpp
+END
+TcaservApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/tcaservice/TcaservApp.h
+END

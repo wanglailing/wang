@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<devtypelist>
+    <slaveboard>
+        <CIR>010C</CIR>
+        <GPS>0104</GPS>
+        <TCR>0110</TCR>
+        <GPRS>0105</GPRS>
+        <GSMR>0205</GSMR>
+        <ATP300S>0106</ATP300S>
+        <ATP300T>0206</ATP300T>
+        <ATP200C>0306</ATP200C>
+        <ATP200H>0406</ATP200H>
+        <ATP300D>0506</ATP300D>
+        <ATP300S_C2>0606</ATP300S_C2>
+        <ATP300H>0A06</ATP300H>
+        <ATP200T>1206</ATP200T>
+        <COMMEOAS>0140</COMMEOAS>
+        <COMMTCAS>011D</COMMTCAS>
+        <GNETMON>0170</GNETMON>
+        <BATTERY>0115</BATTERY>
+    </slaveboard>
+</devtypelist>

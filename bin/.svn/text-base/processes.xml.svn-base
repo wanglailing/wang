@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<processlist>
+    <datahub/>
+    <maintainer/>
+    <storeserv/>
+    <transctrl/>
+    <coreproc/>
+    <!-- eoaservice -->
+    <!-- gnetmon -->
+</processlist>

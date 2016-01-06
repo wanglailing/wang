@@ -1,0 +1,335 @@
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness
+END
+CoreApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CoreApp.h
+END
+TcrNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/TcrNode.cpp
+END
+Atp300S.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300S.h
+END
+AtpNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/AtpNode.h
+END
+Atp300T.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300T.h
+END
+Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Utils.cpp
+END
+Cpu2ToJru.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Cpu2ToJru.h
+END
+CoreSub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CoreSub.cpp
+END
+AtpPlugin.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/AtpPlugin.cpp
+END
+Sub027JuridicalRec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Sub027JuridicalRec.cpp
+END
+GpsNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/GpsNode.h
+END
+Transmit.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Transmit.h
+END
+ParamsConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/ParamsConfig.cpp
+END
+StepRunner.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/StepRunner.h
+END
+Atp300D.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300D.cpp
+END
+PubService.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/PubService.h
+END
+TrainEncoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/TrainEncoder.cpp
+END
+Atp200C.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp200C.h
+END
+Atp300H.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300H.cpp
+END
+BaliseParser.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/BaliseParser.h
+END
+Atp200H.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp200H.h
+END
+DataNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/DataNode.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/main.cpp
+END
+CommonData.h
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CommonData.h
+END
+CirNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CirNode.h
+END
+CoreApp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CoreApp.cpp
+END
+Atp300S.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300S.cpp
+END
+AtpNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/AtpNode.cpp
+END
+Atp300T.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300T.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CMakeLists.txt
+END
+StmToJru.h
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/StmToJru.h
+END
+Cpu2ToJru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Cpu2ToJru.cpp
+END
+RbcTriggerSets.h
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/RbcTriggerSets.h
+END
+GpsNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/GpsNode.cpp
+END
+Transmit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Transmit.cpp
+END
+Publisher.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Publisher.h
+END
+TcrNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/TcrNode.h
+END
+StepRunner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/StepRunner.cpp
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Utils.h
+END
+CoreSub.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CoreSub.h
+END
+PubService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/PubService.cpp
+END
+AtpPlugin.h
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/AtpPlugin.h
+END
+Sub027JuridicalRec.h
+K 25
+svn:wc:ra_dav:version-url
+V 172
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Sub027JuridicalRec.h
+END
+Atp200C.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp200C.cpp
+END
+BaliseParser.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/BaliseParser.cpp
+END
+Atp200H.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp200H.cpp
+END
+ParamsConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/ParamsConfig.h
+END
+Atp300D.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300D.h
+END
+TrainEncoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/TrainEncoder.h
+END
+CirNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/CirNode.cpp
+END
+AtpAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/AtpAPI.h
+END
+Atp300H.h
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Atp300H.h
+END
+StmToJru.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/StmToJru.cpp
+END
+RbcTriggerSets.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/RbcTriggerSets.cpp
+END
+Publisher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/DMS/!svn/ver/1122/DMSII-VR/trunk/Dev/SC/software/DMSII-VR-YF-0012%20%E8%BD%A6%E8%BD%BD%E6%BA%90%E4%BB%A3%E7%A0%81/repository/src/apps/corebusiness/Publisher.cpp
+END
